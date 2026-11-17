@@ -33,3 +33,5 @@ jobs:
           git add ilanlar.json
           git diff --staged --quiet || git commit -m "Saatlik otomatik ilan güncellemesi"
           git push
+permissions:
+  contents: write
