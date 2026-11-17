@@ -2,36 +2,35 @@ name: Saatlik Kamu İlan Tarayıcı
 
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    - cron: '0 * * * *'  # Her saat başı çalışır
+  workflow_dispatch:      # Manuel olarak "Run workflow" ile çalıştırılabilmesini sağlar
 
 permissions:
-  contents: write
+  contents: write         # Depoya dosya yazabilmek (commit/push yapabilmek) için kritik yetki
 
 jobs:
   tara-ve-guncelle:
     runs-on: ubuntu-latest
     steps:
-      - name: Depoyu İndir
+      - name: Depoyu Kopyala (Checkout)
         uses: actions/checkout@v4
 
-      - name: Python Kur
+      - name: Python Ortamını Kur
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.10'
 
-      - name: Kütüphaneleri Yükle
-        run: pip install requests beautifulsoup4 schedule
-
-      - name: Botu Bir Kez Çalıştır
-        run: python -c "import bot; bot.portallari_tara()"
-
-      - name: Güncel ilanlar.json Dosyasını Kaydet
+      - name: Gerekli Kütüphaneleri Yükle
         run: |
-          git config user.name "GelecegeAdim-Bot"
-          git config user.email "bot@users.noreply.github.com"
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 schedule
+
+      - name: Botu Çalıştır (İlanları Tara)
+        run: python bot.py
+
+      - name: Değişiklikleri Depoya Kaydet ve Gönder
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add ilanlar.json
-          git diff --staged --quiet || git commit -m "Saatlik otomatik ilan güncellemesi"
-          git push
-permissions:
-  contents: write
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Otomatik Güncelleme: Güncel ilanlar tarandı [skip ci]" && git push)
