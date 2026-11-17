@@ -1,1 +1,650 @@
-[]
+[
+  {
+    "id": "ga-3-80",
+    "sourceDomain": "osym.gov.tr",
+    "category": "Büro & İdari",
+    "institution": "OSYM.GOV.TR",
+    "title": "2026 KPSS Ön Lisans Sınavı: Branş Bazında Sıralamalar",
+    "city": "Türkiye Geneli",
+    "education": "Önlisans",
+    "kpss": "KPSS P93 (Önlisans)",
+    "quota": 1,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-4-180",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://www.osym.gov.tr/2026-kpss-on-lisans-sinavi-brans-bazinda-siralamalar",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-3-85",
+    "sourceDomain": "osym.gov.tr",
+    "category": "Büro & İdari",
+    "institution": "OSYM.GOV.TR",
+    "title": "2026-EKPSS: Branş Bazında Sıralamalar",
+    "city": "Türkiye Geneli",
+    "education": "Lisans",
+    "kpss": "KPSS P3 (Lisans)",
+    "quota": 1,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-4-185",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://www.osym.gov.tr/2026-ekpss-brans-bazinda-siralamalar",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-3-125",
+    "sourceDomain": "osym.gov.tr",
+    "category": "Büro & İdari",
+    "institution": "OSYM.GOV.TR",
+    "title": "2026-KPSS Lisans Başvuru Kılavuzu",
+    "city": "Türkiye Geneli",
+    "education": "Lisans",
+    "kpss": "KPSS P3 (Lisans)",
+    "quota": 1,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-4-225",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://dokuman.osym.gov.tr/web//2026/9/2026-kpss-lisans-basvuru-kilavuzu-6v7v57-22101148.pdf",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-3-126",
+    "sourceDomain": "osym.gov.tr",
+    "category": "Büro & İdari",
+    "institution": "OSYM.GOV.TR",
+    "title": "2026-KPSS Ön Lisans Başvuru Kılavuzu",
+    "city": "Türkiye Geneli",
+    "education": "Önlisans",
+    "kpss": "KPSS P93 (Önlisans)",
+    "quota": 1,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-4-226",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://dokuman.osym.gov.tr/web//2026/9/2026-kpss-on-lisans-basvuru-kilavuzu-l21r5f-22101148.pdf",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-3-127",
+    "sourceDomain": "osym.gov.tr",
+    "category": "Uzman & Akademik",
+    "institution": "OSYM.GOV.TR",
+    "title": "2026-KPSS Ortaöğretim Başvuru Kılavuzu",
+    "city": "Türkiye Geneli",
+    "education": "Ortaöğretim",
+    "kpss": "KPSS P94 (Ortaöğretim)",
+    "quota": 1,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-4-227",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://dokuman.osym.gov.tr/web//2026/9/2026-kpss-ortaogretim-basvuru-kilavuzu-0k8595-22101148.pdf",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-4-264",
+    "sourceDomain": "iskur.gov.tr",
+    "category": "İşçi & Hizmetli",
+    "institution": "ISKUR.GOV.TR",
+    "title": "Popüler Kurum Dışı Kamu İşçi Alımı İlanı",
+    "city": "Türkiye Geneli",
+    "education": "İlköğretim",
+    "kpss": "KPSS Şartsız",
+    "quota": 1,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-5-364",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://www.iskur.gov.tr/ilanlar/kurumdisi-kamu-isci-alim-ilanlari/",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-4-345",
+    "sourceDomain": "iskur.gov.tr",
+    "category": "Bilişim & Teknik",
+    "institution": "ISKUR.GOV.TR",
+    "title": "18 Eki Türkiye İş Kurumu Genel Müdürlüğü Sözleşmeli Bilişim Personeli Alımı İlanı",
+    "city": "Türkiye Geneli",
+    "education": "Lisans",
+    "kpss": "KPSS P3 (Lisans)",
+    "quota": 1,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-5-445",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://www.iskur.gov.tr/duyurular/turkiye-is-kurumu-genel-mudurlugu-sozlesmeli-bilisim-personeli-alimi-ilani-1/",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-13-105",
+    "sourceDomain": "botas.gov.tr",
+    "category": "Büro & İdari",
+    "institution": "BOTAS.GOV.TR",
+    "title": "223 Kişilik Personel Alım Duyurusu",
+    "city": "Türkiye Geneli",
+    "education": "Lisans",
+    "kpss": "KPSS P3 (Lisans)",
+    "quota": 223,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-14-205",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://www.botas.gov.tr/Icerik/223-kisilik-personel-alim-duyu/1203",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-18-6",
+    "sourceDomain": "teias.gov.tr",
+    "category": "İşçi & Hizmetli",
+    "institution": "TEIAS.GOV.TR",
+    "title": "Şanlıurfa İli Engelli İşçi Personel Alımı Sözlü/Mülakat Sınavı İlanı",
+    "city": "Şanlıurfa",
+    "education": "Lisans",
+    "kpss": "KPSS P3 (Lisans)",
+    "quota": 1,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-19-106",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://www.teias.gov.tr/duyurular/sanliurfa-ili-engelli-isci-personel-alimi-sozlumulakat-sinavi-ilani",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-18-10",
+    "sourceDomain": "teias.gov.tr",
+    "category": "İşçi & Hizmetli",
+    "institution": "TEIAS.GOV.TR",
+    "title": "402 İşçi Personel Alımı Yedek Kazanan Listesinden Açıktan Atamalar",
+    "city": "Türkiye Geneli",
+    "education": "Lisans",
+    "kpss": "KPSS P3 (Lisans)",
+    "quota": 402,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-19-110",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://www.teias.gov.tr/402-isci-personel-alimi-yedek-kazanan-listesinden-aciktan-atamalar",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-18-17",
+    "sourceDomain": "teias.gov.tr",
+    "category": "İşçi & Hizmetli",
+    "institution": "TEIAS.GOV.TR",
+    "title": "4857 Sayılı İş Kanununa Göre Sürekli İşçi Statüsünde Personel Alımı",
+    "city": "Türkiye Geneli",
+    "education": "İlköğretim",
+    "kpss": "KPSS Şartsız",
+    "quota": 1,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-19-117",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://www.teias.gov.tr/duyurular/isci-personel-alimlari",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-22-29",
+    "sourceDomain": "aile.gov.tr",
+    "category": "Büro & İdari",
+    "institution": "AILE.GOV.TR",
+    "title": "Aile ve Sosyal Hizmetler Bakanlığı 2026 Yılı 680 Sözleşmeli Personel Alımı Kapsamında Yerleşen Adaylardan İstenilen Belgelere İlişkin Duyuru",
+    "city": "Türkiye Geneli",
+    "education": "Lisans",
+    "kpss": "KPSS P3 (Lisans)",
+    "quota": 680,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-23-129",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-2026-yili-680-sozlesmeli-personel-alimi-kapsaminda-yerlesen-adaylardan-istenilen-belgelere-iliskin-duyuru/",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-22-30",
+    "sourceDomain": "aile.gov.tr",
+    "category": "Büro & İdari",
+    "institution": "AILE.GOV.TR",
+    "title": "AİLE VE SOSYAL HİZMETLER BAKANLIĞI 680 SÖZLEŞMELİ PERSONEL ALIMI TAVAN VE TABAN PUANLARI HAKKINDA DUYURU",
+    "city": "Van",
+    "education": "Lisans",
+    "kpss": "KPSS P3 (Lisans)",
+    "quota": 680,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-23-130",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-680-sozlesmeli-personel-alimi-tavan-ve-taban-puanlari-hakkinda-duyuru/",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-22-34",
+    "sourceDomain": "aile.gov.tr",
+    "category": "Büro & İdari",
+    "institution": "AILE.GOV.TR",
+    "title": "28 Eylül 2026 3713 SAYILI TERÖRLE MÜCADELE KANUNU KAPSAMINDA 19.09.2026 TARİHİNDE GERÇEKLEŞTİRİLEN KURA SONUCUNA GÖRE BAKANLIĞIMIZ KADROSUNA ATANMAYA HAK KAZANAN ADAYLARDAN İSTENİL",
+    "city": "Türkiye Geneli",
+    "education": "Lisans",
+    "kpss": "KPSS P3 (Lisans)",
+    "quota": 1,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-23-134",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://www.aile.gov.tr/duyurular/3713-sayili-terorle-mucadele-kanunu-kapsaminda-19-09-2026-tarihinde-gerceklestirilen-kura-sonucuna-gore-bakanligimiz-kadrosuna-atanmaya-hak-kazanan-adaylardan-istenilen-belgeler/",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-22-44",
+    "sourceDomain": "aile.gov.tr",
+    "category": "Büro & İdari",
+    "institution": "AILE.GOV.TR",
+    "title": "07 Mayıs 2026 AİLE VE SOSYAL HİZMETLER BAKANLIĞI 680 SÖZLEŞMELİ PERSONEL ALIM İLANI",
+    "city": "Türkiye Geneli",
+    "education": "Lisans",
+    "kpss": "KPSS P3 (Lisans)",
+    "quota": 680,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-23-144",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-680-sozlesmeli-personel-alim-ilani/",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-22-51",
+    "sourceDomain": "aile.gov.tr",
+    "category": "Bilişim & Teknik",
+    "institution": "AILE.GOV.TR",
+    "title": "17 Şubat 2026 Sözleşmeli Bilişim Personeli Alım İlanı",
+    "city": "Türkiye Geneli",
+    "education": "Lisans",
+    "kpss": "KPSS P3 (Lisans)",
+    "quota": 2026,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-23-151",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://www.aile.gov.tr/duyurular/sozlesmeli-bilisim-personeli-alim-ilani-1/",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-22-54",
+    "sourceDomain": "aile.gov.tr",
+    "category": "Büro & İdari",
+    "institution": "AILE.GOV.TR",
+    "title": "05 Şubat 2026 ÖSYM Başkanlığı tarafından 02.02.2026 tarihinde gerçekleştirilen 2026-1 EKPSS/Kura ile Engelli Kamu Personeli Yerleştirme Sonucu ÖSYM Başkanlığı tarafından 02.02.2026",
+    "city": "Türkiye Geneli",
+    "education": "Lisans",
+    "kpss": "KPSS P3 (Lisans)",
+    "quota": 1,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-23-154",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://www.aile.gov.tr/duyurular/osym-baskanligi-tarafindan-02-02-2026-tarihinde-gerceklestirilen-2026-1-ekpss-kura-ile-engelli-kamu-personeli-yerlestirme-sonucu/",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-22-57",
+    "sourceDomain": "aile.gov.tr",
+    "category": "Büro & İdari",
+    "institution": "AILE.GOV.TR",
+    "title": "16 Ocak 2026 Aile ve Sosyal Hizmetler Bakanlığı 3.000 Sözleşmeli Personel Alımı Kapsamında Yerleşen Adaylardan İstenilen Belgelere İlişkin Duyuru",
+    "city": "Türkiye Geneli",
+    "education": "Lisans",
+    "kpss": "KPSS P3 (Lisans)",
+    "quota": 0,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-23-157",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-3-000-sozlesmeli-personel-alimi-kapsaminda-yerlesen-adaylardan-istenilen-belgelere-iliskin-duyuru/",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-22-58",
+    "sourceDomain": "aile.gov.tr",
+    "category": "Büro & İdari",
+    "institution": "AILE.GOV.TR",
+    "title": "15 Ocak 2026 Aile ve Sosyal Hizmetler Bakanlığı 3.000 Sözleşmeli Personel Alımı Tavan ve Taban Puanları Hakkında Duyuru",
+    "city": "Van",
+    "education": "Lisans",
+    "kpss": "KPSS P3 (Lisans)",
+    "quota": 0,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-23-158",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://www.aile.gov.tr/duyurular/aile-ve-sosyal-hizmetler-bakanligi-3-000-sozlesmeli-personel-alimi-tavan-ve-taban-puanlari-hakkinda-duyuru/",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-24-40",
+    "sourceDomain": "yhgm.saglik.gov.tr",
+    "category": "Büro & İdari",
+    "institution": "YHGM.SAGLIK.GOV.TR",
+    "title": "Sözleşmeli Personel Kuraları",
+    "city": "Türkiye Geneli",
+    "education": "Lisans",
+    "kpss": "KPSS P3 (Lisans)",
+    "quota": 1,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-25-140",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://yhgm.saglik.gov.tr/TR-12092/sozlesmeli-personel-kuralari.html",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-25-47",
+    "sourceDomain": "personel.meb.gov.tr",
+    "category": "Bilişim & Teknik",
+    "institution": "PERSONEL.MEB.GOV.TR",
+    "title": "14 Eyl 2026 17:16 Sözleşmeli Bilişim Personeli Sözlü/Uygulama Sınavına Çağrılacak Adaylar Hakkında Duyuru",
+    "city": "Türkiye Geneli",
+    "education": "Lisans",
+    "kpss": "KPSS P3 (Lisans)",
+    "quota": 16,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-26-147",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://personel.meb.gov.tr/www/sozlesmeli-bilisim-personeli-sozluuygulama-sinavina-cagrilacak-adaylar-hakkinda-duyuru/icerik/1773/tr",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-25-48",
+    "sourceDomain": "personel.meb.gov.tr",
+    "category": "Bilişim & Teknik",
+    "institution": "PERSONEL.MEB.GOV.TR",
+    "title": "14 Ağu 2026 10:26 Millî Eğitim Bakanlığı Sözleşmeli Bilişim Personeli Alımı",
+    "city": "Türkiye Geneli",
+    "education": "Lisans",
+    "kpss": "KPSS P3 (Lisans)",
+    "quota": 1,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-26-148",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://personel.meb.gov.tr/www/milli-egitim-bakanligi-sozlesmeli-bilisim-personeli-alimi/icerik/1760/tr",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-30-134",
+    "sourceDomain": "yok.gov.tr",
+    "category": "Büro & İdari",
+    "institution": "YOK.GOV.TR",
+    "title": "20 Nisan 2026 Tarihli ve 33230 Sayılı Resmi Gazete'de Yayımlanan 35 Sözleşmeli Personel Alımı Yedek...",
+    "city": "Türkiye Geneli",
+    "education": "Lisans",
+    "kpss": "KPSS P3 (Lisans)",
+    "quota": 35,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-31-234",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://www.yok.gov.tr/tr/announcements/20-nisan-2026-tarihli-ve-33230-sayili-resmi-gazetede-yayimlanan-35-sozlesmeli-personel-alimi-yedek-aday-duyurusu-cn1oR",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-30-139",
+    "sourceDomain": "yok.gov.tr",
+    "category": "Bilişim & Teknik",
+    "institution": "YOK.GOV.TR",
+    "title": "Yükseköğretim Kurulu Başkanlığı Sözleşmeli Bilişim Personeli Alım İlanı",
+    "city": "Türkiye Geneli",
+    "education": "Lisans",
+    "kpss": "KPSS P3 (Lisans)",
+    "quota": 1,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-31-239",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://www.yok.gov.tr/tr/announcements/yuksekogretim-kurulu-baskanligi-sozlesmeli-bilisim-personeli-alim-ilani-3XIfj",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-30-140",
+    "sourceDomain": "yok.gov.tr",
+    "category": "Büro & İdari",
+    "institution": "YOK.GOV.TR",
+    "title": "20 Nisan 2026 Tarihli ve 33230 Sayılı Resmi Gazete'de Yayımlanan 35 Sözleşmeli Personel Alımı Yedek...",
+    "city": "Türkiye Geneli",
+    "education": "Lisans",
+    "kpss": "KPSS P3 (Lisans)",
+    "quota": 35,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-31-240",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://www.yok.gov.tr/tr/announcements/20-nisan-2026-tarihli-ve-33230-sayili-resmi-gazetede-yayimlanan-35-sozlesmeli-personel-alimi-yedek-aday-duyurusu-euG6w",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-37-112",
+    "sourceDomain": "ziraatbank.com.tr",
+    "category": "Uzman & Akademik",
+    "institution": "ZIRAATBANK.COM.TR",
+    "title": "Uluslararası Bankacılık Okulu Uzman Yardımcısı İşe Alım İlanı tıklayınız",
+    "city": "Türkiye Geneli",
+    "education": "Lisans",
+    "kpss": "KPSS Şartsız",
+    "quota": 1,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-38-212",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://www.ziraatbank.com.tr/tr/Bankamiz-ZB/insan-kaynaklari/Documents/zb-uzman-yard%c4%b1mcisi-23092026.pdf",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  },
+  {
+    "id": "ga-37-119",
+    "sourceDomain": "ziraatbank.com.tr",
+    "category": "Uzman & Akademik",
+    "institution": "ZIRAATBANK.COM.TR",
+    "title": "Ziraat Bankası Uzman Yardımcısı İşe Alım İlanı",
+    "city": "Türkiye Geneli",
+    "education": "Lisans",
+    "kpss": "KPSS Şartsız",
+    "quota": 1,
+    "publishDate": "2026-11-17",
+    "endDate": "2026-11-27",
+    "refNo": "GA-38-219",
+    "qualCode": "Özel Nitelik",
+    "isDuzMemurluk": false,
+    "url": "https://www.ziraatbank.com.tr/tr/bankamiz/insan-kaynaklari/duyurular",
+    "requirements": [
+      "İlgili kurumun resmi duyuru metnindeki başvuru şartlarını inceleyiniz."
+    ],
+    "documents": [
+      "e-Devlet Mezuniyet Belgesi",
+      "KPSS Sonuç Belgesi"
+    ]
+  }
+]
